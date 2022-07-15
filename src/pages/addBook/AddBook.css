@@ -1,0 +1,25 @@
+.custom-form {
+  max-width: 500px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+}
+.custom-form input {
+  width: 100%;
+  margin: 5px 0;
+  padding: 5px;
+}
+.custom-form button {
+  background-color: black;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  padding: 8px 20px;
+  text-transform: capitalize;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.custom-form button:hover {
+  background-color: rgba(54, 53, 53, 0.815);
+}
